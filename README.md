@@ -1,1 +1,1 @@
-# pets-api
+'use strict';

@@ -1,0 +1,23 @@
+{
+  "name": "pets-api",
+  "version": "1.0.0",
+  "description": "demo for building server c301",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicholas-Mercado/pets-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicholas-Mercado/pets-api/issues"
+  },
+  "homepage": "https://github.com/Nicholas-Mercado/pets-api#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  }
+}
